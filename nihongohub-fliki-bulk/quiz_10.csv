@@ -1,0 +1,11 @@
+id,question,english_answer,japanese_answer,romaji,voice_text,image_file,video_file,audio_file
+001,What is this called in Japanese?,Apple,りんご,ringo,It is called ringo in Japanese.,apple.png,001.mp4,001.mp3
+002,What is this called in Japanese?,Cat,ねこ,neko,It is called neko in Japanese.,cat.png,002.mp4,002.mp3
+003,What is this called in Japanese?,Water,みず,mizu,It is called mizu in Japanese.,water.png,003.mp4,003.mp3
+004,What is this called in Japanese?,Dog,いぬ,inu,It is called inu in Japanese.,dog.png,004.mp4,004.mp3
+005,What is this called in Japanese?,Book,ほん,hon,It is called hon in Japanese.,book.png,005.mp4,005.mp3
+006,What is this called in Japanese?,Car,くるま,kuruma,It is called kuruma in Japanese.,car.png,006.mp4,006.mp3
+007,What is this called in Japanese?,Rice,ごはん,gohan,It is called gohan in Japanese.,rice.png,007.mp4,007.mp3
+008,What is this called in Japanese?,Chair,いす,isu,It is called isu in Japanese.,chair.png,008.mp4,008.mp3
+009,What is this called in Japanese?,Phone,でんわ,denwa,It is called denwa in Japanese.,phone.png,009.mp4,009.mp3
+010,What is this called in Japanese?,School,がっこう,gakkou,It is called gakkou in Japanese.,school.png,010.mp4,010.mp3
