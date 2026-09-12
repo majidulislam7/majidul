@@ -1,11 +1,11 @@
-id,question,english_answer,japanese_answer,romaji,voice_text,image_file,video_file,audio_file
-001,What is this called in Japanese?,Apple,りんご,ringo,It is called ringo in Japanese.,apple.png,001.mp4,001.mp3
-002,What is this called in Japanese?,Cat,ねこ,neko,It is called neko in Japanese.,cat.png,002.mp4,002.mp3
-003,What is this called in Japanese?,Water,みず,mizu,It is called mizu in Japanese.,water.png,003.mp4,003.mp3
-004,What is this called in Japanese?,Dog,いぬ,inu,It is called inu in Japanese.,dog.png,004.mp4,004.mp3
-005,What is this called in Japanese?,Book,ほん,hon,It is called hon in Japanese.,book.png,005.mp4,005.mp3
-006,What is this called in Japanese?,Car,くるま,kuruma,It is called kuruma in Japanese.,car.png,006.mp4,006.mp3
-007,What is this called in Japanese?,Rice,ごはん,gohan,It is called gohan in Japanese.,rice.png,007.mp4,007.mp3
-008,What is this called in Japanese?,Chair,いす,isu,It is called isu in Japanese.,chair.png,008.mp4,008.mp3
-009,What is this called in Japanese?,Phone,でんわ,denwa,It is called denwa in Japanese.,phone.png,009.mp4,009.mp3
-010,What is this called in Japanese?,School,がっこう,gakkou,It is called gakkou in Japanese.,school.png,010.mp4,010.mp3
+﻿id,question_number,english_target,question_text,option_a_romaji,option_a_japanese,option_b_romaji,option_b_japanese,option_c_romaji,option_c_japanese,correct_letter,correct_romaji,correct_japanese,question_voice_text,answer_voice_text,question_page,answer_page,question_start,answer_start
+Q1,1,Cat,What is cat in Japanese?,Inu,いぬ,Neko,ねこ,Sakana,さかな,B,Neko,ねこ,What is cat in Japanese?,The answer is B. Neko. ねこ.,1,2,0,6
+Q2,2,Dog,What is dog in Japanese?,Inu,いぬ,Sakana,さかな,Hana,はな,A,Inu,いぬ,What is dog in Japanese?,The answer is A. Inu. いぬ.,3,4,9,15
+Q3,3,Apple,What is apple in Japanese?,Hon,ほん,Mizu,みず,Ringo,りんご,C,Ringo,りんご,What is apple in Japanese?,The answer is C. Ringo. りんご.,5,6,18,24
+Q4,4,Fish,What is fish in Japanese?,Hana,はな,Sakana,さかな,Neko,ねこ,B,Sakana,さかな,What is fish in Japanese?,The answer is B. Sakana. さかな.,7,8,27,33
+Q5,5,Book,What is book in Japanese?,Kasa,かさ,Yama,やま,Hon,ほん,C,Hon,ほん,What is book in Japanese?,The answer is C. Hon. ほん.,9,10,36,42
+Q6,6,Water,What is water in Japanese?,Mizu,みず,Kuruma,くるま,Inu,いぬ,A,Mizu,みず,What is water in Japanese?,The answer is A. Mizu. みず.,11,12,45,51
+Q7,7,Flower,What is flower in Japanese?,Ringo,りんご,Hana,はな,Sakana,さかな,B,Hana,はな,What is flower in Japanese?,The answer is B. Hana. はな.,13,14,54,60
+Q8,8,Mountain,What is mountain in Japanese?,Yama,やま,Hon,ほん,Kasa,かさ,A,Yama,やま,What is mountain in Japanese?,The answer is A. Yama. やま.,15,16,63,69
+Q9,9,Umbrella,What is umbrella in Japanese?,Kuruma,くるま,Neko,ねこ,Kasa,かさ,C,Kasa,かさ,What is umbrella in Japanese?,The answer is C. Kasa. かさ.,17,18,72,78
+Q10,10,Car,What is car in Japanese?,Kuruma,くるま,Mizu,みず,Yama,やま,A,Kuruma,くるま,What is car in Japanese?,The answer is A. Kuruma. くるま.,19,20,81,87
